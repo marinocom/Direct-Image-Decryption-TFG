@@ -9,7 +9,7 @@ This repo serves as the reflection of my work for the TFG for the BSc Artificial
 
 An end-to-end neural architecture for direct decryption of historical encrypted manuscript images, bypassing traditional transcription stages to reduce error propagation in cipher decipherment.
 
-This project introduces **Direct Image Decryption**, a novel paradigm that directly maps encrypted manuscript images to decrypted plaintext in a single model, eliminating the intermediate transcription bottleneck that plagues traditional two-stage cryptanalysis pipelines.
+This TFG introduces **Direct Image Decryption**, a novel paradigm that directly maps encrypted manuscript images to decrypted plaintext in a single model, eliminating the intermediate transcription bottleneck that plagues traditional two-stage cryptanalysis pipelines.
 
 **<img src="docs/images/histocrypt.png" alt="HistoCrypt" height="20"/> A version of this work was Submitted to HistoCrypt 2026 - International Conference on Historical Cryptology**
 
